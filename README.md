@@ -1,6 +1,6 @@
 # Raspbery-Rasputin-Red-heart-follower
 
-Project made for Image Processing classes for UPV Universitat Politècnica de València in Spain, during my Erasmus exchange. 
+Project made for  Digital Image Processing classes for UPV Universitat Politècnica de València in Spain, during my Erasmus exchange. 
 
 Raspberry & adafruit_servokit & 2 servo mechanism &amp; webcam. Red heart follower with music volume control. 
 
