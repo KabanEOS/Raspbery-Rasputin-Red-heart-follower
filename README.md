@@ -7,5 +7,4 @@ Raspberry & adafruit_servokit & 2 servo mechanism &amp; webcam. Red heart follow
 
 
 Wideo description and presentation:
-https://youtu.be/_WY58IbmxVQ
-
+https://youtu.be/_WY58IbmxVQ?t=376
